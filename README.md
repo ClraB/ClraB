@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClraB
-- 👀 I’m interested in to watch series.
+- 👀 I’m interested in watching series.
 - 🌱 I’m currently learning computational intelligence.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
